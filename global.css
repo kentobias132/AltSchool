@@ -1,0 +1,42 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-museomoderno: MuseoModerno;
+  --font-cairo: Cairo;
+  --font-poppins: Poppins;
+  --font-open-sans: "Open Sans";
+  --font-lato: Lato;
+
+  /* font sizes */
+  --font-size-20xl: 39px;
+  --font-size-lg: 18px;
+  --font-size-base: 16px;
+  --font-size-5xl: 24px;
+  --font-size-41xl: 60px;
+  --font-size-19xl: 38px;
+  --font-size-sm: 14px;
+  --font-size-xl: 20px;
+
+  /* Colors */
+  --white: #fff;
+  --primary-soft: #2459a8;
+  --color-gray-100: #171b2c;
+  --dark: #080a12;
+  --primary: #023aa2;
+  --grey-soft: #ebecf0;
+  --grey-hard: #414141;
+  --dark1: #363848;
+  --color-darkorange: #ff862f;
+  --grey: #a3abb6;
+
+  /* border radiuses */
+  --br-7xs: 6px;
+  --br-sm: 14px;
+
+  /* Effects */
+  --shadow-01: 0px 19px 29px rgba(62, 53, 120, 0.14);
+}
